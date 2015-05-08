@@ -1,3 +1,5 @@
+#Call: python downloader.py | gettweets.py > output.txt
+
 import os
 import sys
 
