@@ -1,54 +1,22 @@
 import json
 import re
-import sys
-from pygeocoder import Geocoder
 
-
-def main():
+def cleanup():
 	with open('alerts_test.json') as data_file:
 		alerts = json.load(data_file)
 	
-	for i in range(500):
-		for alert in alerts:
-			if alert["cause"] == []:
-				alerts.remove(alert)
-
-	for i in range(200):
-		for alert in alerts:
-			if  ":" not in ''.join(alert ["time"]):
-				alerts.remove(alert)
+	# Remove all empty causes from the list of alerts
+	alerts = [d for d in alerts if d.get('cause') != []]
 	
-	for i in range(400):
-		for alert in alerts:
-			if not re.search('[A-P]\s[0-9]', ''.join(alert ["cause"])):
-				alerts.remove(alert)
+	# Remove all alerts or other lines without a time
+	alerts = [d for d in alerts if ':' in ''.join(d.get('time'))] 
+	
+	# Remove all alerts without a priority index (Capital letter followed by a space and one number)
+	alerts = [d for d in alerts if re.search('[A-P]\s[0-9]', ''.join(d.get('cause')))]
 
-	causeList=[]
-	for alert in alerts:
-		causeList.append(''.join(alert ["cause"]))
-	causeSplitList=[]
-	for cause in causeList:
-		causeSplitList.append(cause.split())
+	# Gather all causes in 1 list for geosnatcher
+	causes= [d.split() for d in [''.join(d) for d in [d.get('cause') for d in alerts]]]
 
+	return causes
 
-	for cause in causeSplitList:
-		address=str(cause[-3])," ",str(cause[-4]),", ",str(cause[-2])
-		#print(''.join(address))
-		try:
-			results = Geocoder.geocode(''.join(address))
-		except Exception,e:
-			print("helaas")
-	print(results)
-		
-
-
-
-
-
-			
-
-
-
-
-if __name__ == '__main__':
-	main()
+#cleanup()

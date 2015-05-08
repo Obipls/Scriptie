@@ -1,10 +1,12 @@
+#scrapy crawl p2000 -o <datafile>.json
+
 import scrapy
 from p2000.items import *
 
 class P2000Spider(scrapy.Spider):
     name = "p2000"
     allowed_domains = ["p2000-online.net"]
-    start_urls = ["http://www.p2000-online.net/p2000.php?Groningen=1&nofilterform=1&Pagina=%d&NoViewCaps=1&AutoRefresh=uit&Pagina=%d" %(n,n) for n in range(0, 5)]
+    start_urls = ["http://www.p2000-online.net/p2000.php?Pagina=%d&NoViewCaps=1&AutoRefresh=uit&Pagina=%d" %(n,n) for n in range(0, 10250)]
 
     """"def parse(self, response):
         for sel in response.xpath('//tr'):
