@@ -1,0 +1,1962 @@
+(dp0
+((F53.24833665
+F7.11361048469859
+tp1
+V16-04-15
+p2
+V13:31:48
+p3
+tp4
+VFinsterwolde, Oldambt, Groningen, Nederland
+p5
+s((F53.1926763
+F5.5065717
+tp6
+V16-04-15
+p7
+V15:06:37
+p8
+tp9
+V5, Leane, Herbaijum, Franekeradeel, Friesland, Nederland, 8807PL, Nederland
+p10
+s((F52.5046238
+F4.6682303
+tp11
+V21-04-15
+p12
+V09:58:48
+p13
+tp14
+V90, Westerheem, Heemskerk, MRA, Noord-Holland, Nederland, 1964EJ, Nederland
+p15
+s((F53.326565
+F6.0105914
+tp16
+V17-04-15
+p17
+V15:33:52
+p18
+tp19
+V67-K011, Dongeradyk, Dokkum, Dongeradeel, Friesland, Nederland, 9101GC, Nederland
+p20
+s((F50.8536302
+F13.5615128
+tp21
+V16-04-15
+p22
+V14:24:18
+p23
+tp24
+VK 9053, Pretzschendorf, Klingenberg, Landkreis Sächsische Schweiz-Osterzgebirge, Sachsen, 01774, Deutschland
+p25
+s((F53.0028619
+F6.1238292
+tp26
+V19-04-15
+p27
+V18:20:05
+p28
+tp29
+VEricalaan, Jubbega, Heerenveen, Friesland, Nederland, 8411VC, Nederland
+p30
+s((F53.3603299
+F6.0692414
+tp31
+V18-04-15
+p32
+V11:27:26
+p33
+tp34
+V15, Balthasar Bekkerstrjitte, Metslawier, Dongeradeel, Friesland, Nederland, 9123JV, Nederland
+p35
+s((F51.5905626
+F5.3196385
+tp36
+V18-04-15
+p37
+V15:48:59
+p38
+tp39
+V2, Ursulinenpad, Boxtel, Noord-Brabant, Nederland, 5281HS, Nederland
+p40
+s((F52.962255
+F5.9181877
+tp41
+V21-04-15
+p42
+V12:06:03
+p43
+tp44
+V55-15, Fok, Heerenveen, Friesland, Nederland, 8441BN, Nederland
+p45
+s((F52.7194487
+F6.4912333
+tp46
+V21-04-15
+p47
+V09:05:35
+p48
+tp49
+V7, Wolfsbosstraat, Hoogeveen, Drenthe, Nederland, 7905BZ, Nederland
+p50
+s((F51.5581179
+F5.9422042
+tp51
+V18-04-15
+p52
+V13:25:13
+p53
+tp54
+V19, Merseloseweg, Overloon, Boxmeer, Noord-Brabant, Nederland, 5825HB, Nederland
+p55
+s((F53.1954218
+F5.819037
+tp56
+V19-04-15
+p57
+V23:06:33
+p58
+tp59
+V16, Tjotterstraat, Leeuwarden, Friesland, Nederland, 8937AS, Nederland
+p60
+s((F53.0179123
+F7.1246051
+tp61
+V16-04-15
+p62
+V16:26:26
+p63
+tp64
+V150, Wollinghuizerweg, Vlagtwedde, Groningen, Nederland, 9541AV, Nederland
+p65
+s((F51.4419017
+F5.5021391
+tp66
+V17-04-15
+p67
+V10:32:14
+p68
+tp69
+V266, Tongelresestraat, Lakerlopen, Eindhoven, MRE, Samenwerkingsverband Regio Eindhoven, Noord-Brabant, Nederland, 5613DV, Nederland
+p70
+s((F52.9478682
+F6.3545971
+tp71
+V19-04-15
+p72
+V15:15:11
+p73
+tp74
+V1, Drentseweg, Appelscha, Ooststellingwerf, Friesland, Nederland, 8426EN, Nederland
+p75
+s((F53.2957479
+F5.0694869
+tp76
+V15-04-15
+p77
+V22:42:31
+p78
+tp79
+V61, Dorpsstraat, Vlieland, Friesland, Nederland, 8899AD, Nederland
+p80
+s((F53.1782957
+F5.4321888
+tp81
+V16-04-15
+p82
+V17:44:41
+p83
+tp84
+V1-191, Saltryperlaan, Harlingen, Friesland, Nederland, 8861VD, Nederland
+p85
+s((F52.3086434
+F4.76617
+tp86
+V20-04-15
+p87
+V13:52:03
+p88
+tp89
+V8, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p90
+s((F52.6791851
+F6.7577227
+tp91
+V17-04-15
+p92
+V13:23:27
+p93
+tp94
+V5, Achterloo, Dalen, Coevorden, Drenthe, Nederland, 7751MK, Nederland
+p95
+s((F52.4958401
+F4.6853057
+tp96
+V18-04-15
+p97
+V20:21:44
+p98
+tp99
+V255, Euratomplein, Heemskerk, MRA, Noord-Holland, Nederland, 1966SV, Nederland
+p100
+s((F51.6762983
+F4.6102203
+tp101
+V19-04-15
+p102
+V16:49:09
+p103
+tp104
+V21, Plaza, Moerdijk, Noord-Brabant, Nederland, 4782SL, Nederland
+p105
+s((F52.3073081
+F4.6393708
+tp106
+V18-04-15
+p107
+V16:33:35
+p108
+tp109
+V50, Almkerkplein, Floriande, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2134DR, Nederland
+p110
+s((F52.3333703
+F4.77170684879264
+tp111
+V19-04-15
+p112
+V14:57:07
+p113
+tp114
+VDorint Airport-Hotel Amsterdam, 299, Sloterweg, Badhoevedorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1171VB, Nederland
+p115
+s((F50.1993811
+F14.5039211
+tp116
+V21-04-15
+p117
+V08:09:44
+p118
+tp119
+V2441, Líbeznice, okres Praha-východ, St\u0159edo\u010deský kraj, St\u0159ední \u010cechy, 25064, \u010cesko
+p120
+s((F51.6780921
+F5.3300249
+tp121
+V20-04-15
+p122
+V11:25:56
+p123
+tp124
+V1, Brabantlaan, Pettelaarpark, Zuidoost, 's-Hertogenbosch, Noord-Brabant, Nederland, 5216TV, Nederland
+p125
+s((F52.9787825
+F6.7666501
+tp126
+V20-04-15
+p127
+V21:09:24
+p128
+tp129
+V2-77, Bosweg, Gasselte, Aa en Hunze, Drenthe, Nederland, 9462TB, Nederland
+p130
+s((F52.9699032
+F5.6093017
+tp131
+V19-04-15
+p132
+V11:12:31
+p133
+tp134
+V33-022, Tollewei, Heeg, Súdwest Fryslân, Friesland, Nederland, 8621CX, Nederland
+p135
+s((F51.2200766
+F5.9190403
+tp136
+V20-04-15
+p137
+V15:14:09
+p138
+tp139
+V1-V03, Hornerheide, Horn, Leudal, Limburg, Nederland, 6085NM, Nederland
+p140
+s((F52.3853822
+F4.664629
+tp141
+V16-04-15
+p142
+V07:58:50
+p143
+tp144
+V32, Oudeweg, Waarder-en Veerpolder, Haarlem, MRA, Noord-Holland, Nederland, 2031CC, Nederland
+p145
+s((F52.8613957
+F6.5204158
+tp146
+V20-04-15
+p147
+V21:55:20
+p148
+tp149
+V1, Altingerweg, Beilen, Midden-Drenthe, Drenthe, Nederland, 9411PA, Nederland
+p150
+s((F52.3160212
+F4.6580137
+tp151
+V17-04-15
+p152
+V21:51:35
+p153
+tp154
+V53, Muiderbos, Overbos, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2134SN, Nederland
+p155
+s((F51.7497125
+F5.5105612
+tp156
+V16-04-15
+p157
+V00:28:20
+p158
+tp159
+V22, Gezellehof, Oss, Noord-Brabant, Nederland, 5343HA, Nederland
+p160
+s((F52.6993556
+F6.2245469
+tp161
+V16-04-15
+p162
+V11:09:25
+p163
+tp164
+V31, Eikepage, Meppel, Regio Zwolle, Drenthe, Nederland, 7943RV, Nederland
+p165
+s((F52.3489064
+F4.608481
+tp166
+V16-04-15
+p167
+V20:57:11
+p168
+tp169
+V71A-5, Herenweg, Heemstede, MRA, Noord-Holland, Nederland, 2105MD, Nederland
+p170
+s((F51.6276642
+F5.4198265
+tp171
+V16-04-15
+p172
+V13:56:09
+p173
+tp174
+V114, Boschweg, Schijndel, Noord-Brabant, Nederland, 5481EH, Nederland
+p175
+s((F52.3254777
+F4.73976049753488
+tp176
+V19-04-15
+p177
+V23:42:24
+p178
+tp179
+VSchiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland
+p180
+s((F52.9567525
+F5.9222572
+tp181
+V18-04-15
+p182
+V04:43:01
+p183
+tp184
+V1, Hiddingastraat, Heerenveen, Friesland, Nederland, 8442AJ, Nederland
+p185
+s((F52.3040442
+F4.6952041
+tp186
+V18-04-15
+p187
+V15:58:13
+p188
+tp189
+V100, Marktplein, Centrum, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132DD, Nederland
+p190
+s((F53.1101359
+F6.885663
+tp191
+V17-04-15
+p192
+V15:19:48
+p193
+tp194
+V143, Beneden Oosterdiep, Veendam, Groningen, Nederland, 9641JC, Nederland
+p195
+s((F51.4726079
+F5.50012886494253
+tp196
+V21-04-15
+p197
+V09:54:57
+p198
+tp199
+VDe Knuppel, Aquariuslaan, Luytelaer, Eindhoven, MRE, Samenwerkingsverband Regio Eindhoven, Noord-Brabant, Nederland, 5632BB, Nederland
+p200
+s((F51.6105213
+F6.0410178
+tp201
+V20-04-15
+p202
+V19:00:11
+p203
+tp204
+V1106, De Flammert, Bergen L, Bergen, Limburg, Nederland, 5854NB, Nederland
+p205
+s((F52.3756257
+F4.7547845
+tp206
+V21-04-15
+p207
+V14:19:25
+p208
+tp209
+V86, Wilgenlaan, Zwanenburg, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1161JP, Nederland
+p210
+s((F53.0511543
+F5.8354196
+tp211
+V19-04-15
+p212
+V15:32:24
+p213
+tp214
+V37-0004, Leppedyk, Akkrum, Heerenveen, Friesland, Nederland, 8491GJ, Nederland
+p215
+s((F52.4847321
+F4.6313386
+tp216
+V21-04-15
+p217
+V09:11:48
+p218
+tp219
+V214, Zeestraat, Beverwijk, MRA, Noord-Holland, Nederland, 1943AE, Nederland
+p220
+s((F53.0188256
+F5.6867045
+tp221
+V18-04-15
+p222
+V07:53:24
+p223
+tp224
+V3, Edisonstraat, Sneek, Súdwest Fryslân, Friesland, Nederland, 8606JH, Nederland
+p225
+s((F51.4984422
+F3.6206508
+tp226
+V20-04-15
+p227
+V16:57:48
+p228
+tp229
+VCompagnieplein, Middelburg, Zeeland, Nederland, 4331VC, Nederland
+p230
+s((F51.7222564
+F5.2884227
+tp231
+V16-04-15
+p232
+V13:49:24
+p233
+tp234
+V9, Zilverenberg, Bedrijventerrein Maaspoort, Maaspoort, 's-Hertogenbosch, Noord-Brabant, Nederland, 5234GL, Nederland
+p235
+s((F52.7842248
+F6.9204858
+tp236
+V17-04-15
+p237
+V13:34:53
+p238
+tp239
+V109, Landschaplaan, Emmen, Drenthe, Nederland, 7824BE, Nederland
+p240
+s((F52.3816329
+F4.5315584
+tp241
+V19-04-15
+p242
+V15:25:26
+p243
+tp244
+V21g-2, Trompstraat, Zandvoort, MRA, Noord-Holland, Nederland, 2041JC, Nederland
+p245
+s((F52.3500451
+F4.6552503
+tp246
+V20-04-15
+p247
+V14:21:58
+p248
+tp249
+VVerzorgingshuis De Molenburg, 12, Groningenlaan, Haarlem, MRA, Noord-Holland, Nederland, 2036EN, Nederland
+p250
+s((F53.01918
+F5.6664849
+tp251
+V21-04-15
+p252
+V12:20:31
+p253
+tp254
+V34, Fonteinkruid, Sneek, Súdwest Fryslân, Friesland, Nederland, 8607HH, Nederland
+p255
+s((F53.1984357
+F5.8179965
+tp256
+V18-04-15
+p257
+V21:57:50
+p258
+tp259
+V1, Pieter Stuyvesantweg, Leeuwarden, Friesland, Nederland, 8937AC, Nederland
+p260
+s((F53.4105281
+F6.6773902
+tp261
+V20-04-15
+p262
+V11:49:58
+p263
+tp264
+V1, Kwekersweg, Eemsmond, Groningen, Nederland, 9981GE, Nederland
+p265
+s((F51.6276642
+F5.4198265
+tp266
+V16-04-15
+p267
+V13:45:56
+p268
+tp269
+V114, Boschweg, Schijndel, Noord-Brabant, Nederland, 5481EH, Nederland
+p270
+s((F53.1514635
+F7.0587512
+tp271
+V16-04-15
+p272
+V19:47:18
+p273
+tp274
+V6, Lijnbaan, Reiderland, Winschoten, Oldambt, Groningen, Nederland, 9672BL, Nederland
+p275
+s((F51.5581179
+F5.9422042
+tp276
+V18-04-15
+p277
+V13:24:42
+p278
+tp279
+V19, Merseloseweg, Overloon, Boxmeer, Noord-Brabant, Nederland, 5825HB, Nederland
+p280
+s((F53.3764456
+F6.126509
+tp281
+V18-04-15
+p282
+V14:07:52
+p283
+tp284
+V11, Buorfinne, Anjum, Dongeradeel, Friesland, Nederland, 9133NR, Nederland
+p285
+s((F50.1993811
+F14.5039211
+tp286
+V17-04-15
+p287
+V15:24:52
+p288
+tp289
+V2441, Líbeznice, okres Praha-východ, St\u0159edo\u010deský kraj, St\u0159ední \u010cechy, 25064, \u010cesko
+p290
+s((F52.3693724
+F4.708682
+tp291
+V20-04-15
+p292
+V10:30:15
+p293
+tp294
+VSpaarnwouderweg, Vijfhuizen, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2141BP, Nederland
+p295
+s((F53.3818872
+F5.9615972
+tp296
+V18-04-15
+p297
+V19:48:57
+p298
+tp299
+V9, Holwerterdyk, Ternaard, Dongeradeel, Friesland, Nederland, 9145RK, Nederland
+p300
+s((F52.9858806
+F6.5473472
+tp301
+V16-04-15
+p302
+V10:05:23
+p303
+tp304
+VBosrand, Assen, Drenthe, Nederland, 9401SL, Nederland
+p305
+s((F51.4723146
+F4.8658306
+tp306
+V19-04-15
+p307
+V17:03:27
+p308
+tp309
+V6, Kleine Maaijen, Ulicoten, Baarle-Nassau, Noord-Brabant, Nederland, 5113BK, Nederland
+p310
+s((F52.6866501
+F6.3938766
+tp311
+V18-04-15
+p312
+V14:08:57
+p313
+tp314
+V14, Willem Moesweg, Veeningen, De Wolden, Drenthe, Nederland, 7924PA, Nederland
+p315
+s((F52.2999863
+F4.6411003
+tp316
+V16-04-15
+p317
+V03:05:39
+p318
+tp319
+V3, Obelisk, Floriande, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2134BR, Nederland
+p320
+s((F52.4044819
+F4.8920477
+tp321
+V17-04-15
+p322
+V21:29:05
+p323
+tp324
+V3, ks. Ibisweg, Cornelis Douwesterrein, Amsterdam, Noord, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1033RA, Nederland
+p325
+s((F53.3302648
+F6.1248175
+tp326
+V19-04-15
+p327
+V12:32:16
+p328
+tp329
+V6, Fjellingsreed, Engwierum, Dongeradeel, Friesland, Nederland, 9132EN, Nederland
+p330
+s((F52.8469677
+F5.6853261
+tp331
+V16-04-15
+p332
+V13:30:54
+p333
+tp334
+V39-32, Plattedijk, Lemmer, De Friese Meren, Friesland, Nederland, 8531PC, Nederland
+p335
+s((F51.7001752
+F5.28933720158969
+tp336
+V18-04-15
+p337
+V23:00:41
+p338
+tp339
+VBrabanthallen, 2, Diezekade, Veemarktkwartier, 's-Hertogenbosch, Noord-Brabant, Nederland, 5222AK, Nederland
+p340
+s((F50.0754205
+F13.7779386
+tp341
+V20-04-15
+p342
+V16:15:29
+p343
+tp344
+V2331, Pavlíkov, okres Rakovník, St\u0159edo\u010deský kraj, St\u0159ední \u010cechy, 27021, \u010cesko
+p345
+s((F52.7142045
+F6.5203897
+tp346
+V17-04-15
+p347
+V14:27:48
+p348
+tp349
+V4023, Buitenvaart, Hoogeveen, Drenthe, Nederland, 7905TC, Nederland
+p350
+s((F51.4535384
+F5.50116527932099
+tp351
+V18-04-15
+p352
+V14:02:40
+p353
+tp354
+VKarpendonkse Plas, Sumatralaan, Karpen, Eindhoven, MRE, Samenwerkingsverband Regio Eindhoven, Noord-Brabant, Nederland, 5631AA, Nederland
+p355
+s((F53.08584745
+F6.69668953148043
+tp356
+V16-04-15
+p357
+V20:07:20
+p358
+tp359
+VZuidlaren, Tynaarlo, Drenthe, Nederland
+p360
+s((F52.4600034
+F4.6502004
+tp361
+V16-04-15
+p362
+V10:44:28
+p363
+tp364
+V35, 's Gravenlust, Velsen-Zuid, Velsen, MRA, Noord-Holland, Nederland, 1981AE, Nederland
+p365
+s((F53.1823964
+F6.5975402
+tp366
+V20-04-15
+p367
+V11:35:39
+p368
+tp369
+V3C-5, Dilgtweg, Haren Gn, Haren, Groningen, Nederland, 9751ND, Nederland
+p370
+s((F51.7877206
+F5.5320425
+tp371
+V21-04-15
+p372
+V15:01:18
+p373
+tp374
+VMeerdijk, Oss, Noord-Brabant, Nederland, 5347JH, Nederland
+p375
+s((F52.3254777
+F4.73976049753488
+tp376
+V17-04-15
+p377
+V10:11:48
+p378
+tp379
+VSchiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland
+p380
+s((F52.3114291
+F4.7571246
+tp381
+V21-04-15
+p382
+V15:10:16
+p383
+tp384
+V11, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p385
+s((F53.2336615
+F6.5572077
+tp386
+V19-04-15
+p387
+V20:52:12
+p388
+tp389
+V1-261, Populierenlaan, Selwerd, Groningen, Nederland, 9741HA, Nederland
+p390
+s((F52.763922
+F6.8862112
+tp391
+V20-04-15
+p392
+V19:43:26
+p393
+tp394
+V8, Alerderbrink, Emmen, Drenthe, Nederland, 7812RT, Nederland
+p395
+s((F53.08584745
+F6.69668953148043
+tp396
+V19-04-15
+p397
+V15:12:03
+p398
+tp399
+VZuidlaren, Tynaarlo, Drenthe, Nederland
+p400
+s((F51.5905626
+F5.3196385
+tp401
+V18-04-15
+p402
+V15:55:33
+p403
+tp404
+V2, Ursulinenpad, Boxtel, Noord-Brabant, Nederland, 5281HS, Nederland
+p405
+s((F52.8469677
+F5.6853261
+tp406
+V16-04-15
+p407
+V07:48:54
+p408
+tp409
+V39-32, Plattedijk, Lemmer, De Friese Meren, Friesland, Nederland, 8531PC, Nederland
+p410
+s((F53.2374759
+F6.5684988
+tp411
+V15-04-15
+p412
+V20:44:50
+p413
+tp414
+V42, Bonairestraat, Indische Buurt, Groningen, Nederland, 9715SE, Nederland
+p415
+s((F52.3605967
+F5.7205682
+tp416
+V18-04-15
+p417
+V17:28:03
+p418
+tp419
+VHulshorst, Gelderland, Nederland, 8077, Nederland
+p420
+s((F53.3603299
+F6.0692414
+tp421
+V18-04-15
+p422
+V14:31:54
+p423
+tp424
+V15, Balthasar Bekkerstrjitte, Metslawier, Dongeradeel, Friesland, Nederland, 9123JV, Nederland
+p425
+s((F52.9708736
+F5.4531182
+tp426
+V20-04-15
+p427
+V09:15:29
+p428
+tp429
+V4, Lutswei, Workum, Súdwest Fryslân, Friesland, Nederland, 8711JG, Nederland
+p430
+s((F53.034689
+F5.642867
+tp431
+V21-04-15
+p432
+V07:26:13
+p433
+tp434
+V1, Bolswarderbaan, Sneek, Súdwest Fryslân, Friesland, Nederland, 8601ZK, Nederland
+p435
+s((F52.3710477
+F4.5289169
+tp436
+V18-04-15
+p437
+V14:13:05
+p438
+tp439
+V12f-4, Oranjestraat, Zandvoort, MRA, Noord-Holland, Nederland, 2042GS, Nederland
+p440
+s((F53.0323102
+F5.659863
+tp441
+V16-04-15
+p442
+V10:22:05
+p443
+tp444
+V26, Marktstraat, Sneek, Súdwest Fryslân, Friesland, Nederland, 8601CV, Nederland
+p445
+s((F51.9300084
+F5.983576
+tp446
+V17-04-15
+p447
+V14:22:37
+p448
+tp449
+V50, Loostraat, Loo Gld, Duiven, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6924AG, Nederland
+p450
+s((F52.3756257
+F4.7547845
+tp451
+V21-04-15
+p452
+V14:24:12
+p453
+tp454
+V86, Wilgenlaan, Zwanenburg, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1161JP, Nederland
+p455
+s((F52.7194487
+F6.4912333
+tp456
+V20-04-15
+p457
+V13:03:34
+p458
+tp459
+V7, Wolfsbosstraat, Hoogeveen, Drenthe, Nederland, 7905BZ, Nederland
+p460
+s((F52.9988692
+F6.5484922
+tp461
+V16-04-15
+p462
+V13:59:18
+p463
+tp464
+V2A-4, van Heuven Goedhartlaan, Assen, Drenthe, Nederland, 9406CE, Nederland
+p465
+s((F52.8731274
+F6.0080998
+tp466
+V16-04-15
+p467
+V10:30:13
+p468
+tp469
+V49, Steenwijkerweg, Wolvega, Weststellingwerf, Friesland, Nederland, 8471KZ, Nederland
+p470
+s((F51.5581179
+F5.9422042
+tp471
+V18-04-15
+p472
+V13:25:14
+p473
+tp474
+V19, Merseloseweg, Overloon, Boxmeer, Noord-Brabant, Nederland, 5825HB, Nederland
+p475
+s((F52.3086434
+F4.76617
+tp476
+V20-04-15
+p477
+V23:03:26
+p478
+tp479
+V8, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p480
+s((F53.1143857
+F6.8831088
+tp481
+V19-04-15
+p482
+V19:51:18
+p483
+tp484
+V21-105, Schaepmanstraat, Veendam, Groningen, Nederland, 9645HC, Nederland
+p485
+s((F53.3201344
+F6.858819
+tp486
+V21-04-15
+p487
+V00:58:03
+p488
+tp489
+V44, Wijkstraat, Appingedam, Groningen, Nederland, 9901AJ, Nederland
+p490
+s((F50.0754205
+F13.7779386
+tp491
+V21-04-15
+p492
+V12:19:33
+p493
+tp494
+V2331, Pavlíkov, okres Rakovník, St\u0159edo\u010deský kraj, St\u0159ední \u010cechy, 27021, \u010cesko
+p495
+s((F53.3023759
+F5.7874104
+tp496
+V19-04-15
+p497
+V13:17:24
+p498
+tp499
+V1, De Foarplecht, Hallum, Ferwerderadiel, Friesland, Nederland, 9074DG, Nederland
+p500
+s((F38.999979
+F-94.4163609
+tp501
+V20-04-15
+p502
+V18:41:42
+p503
+tp504
+VSouth Noland Road, Kansas City, Jackson County, Missouri, 64133:64138, United States of America
+p505
+s((F53.0328792
+F5.6643227
+tp506
+V20-04-15
+p507
+V12:37:03
+p508
+tp509
+V101, Kleinzand, Sneek, Súdwest Fryslân, Friesland, Nederland, 8601BG, Nederland
+p510
+s((F53.155427
+F6.7555067
+tp511
+V17-04-15
+p512
+V09:29:13
+p513
+tp514
+VGorecht-Oost, Hoogezand, Hoogezand-Sappemeer, Groningen, Nederland, 9602VS, Nederland
+p515
+s((F52.7761261
+F6.8961864
+tp516
+V16-04-15
+p517
+V07:09:22
+p518
+tp519
+VDe Wielerdieler, 5, Noordbargerstraat, Emmen, Drenthe, Nederland, 7811 KE, Nederland
+p520
+s((F51.4535384
+F5.50116527932099
+tp521
+V18-04-15
+p522
+V14:02:22
+p523
+tp524
+VKarpendonkse Plas, Sumatralaan, Karpen, Eindhoven, MRE, Samenwerkingsverband Regio Eindhoven, Noord-Brabant, Nederland, 5631AA, Nederland
+p525
+s((F51.1946722
+F5.7114319
+tp526
+V17-04-15
+p527
+V10:58:16
+p528
+tp529
+V49, Klemmenstraat, Stramproy, Weert, Limburg, Nederland, 6039GT, Nederland
+p530
+s((F52.3753363
+F4.6347366
+tp531
+V16-04-15
+p532
+V10:49:40
+p533
+tp534
+V12, Kleine Houtweg, Haarlem, MRA, Noord-Holland, Nederland, 2012CH, Nederland
+p535
+s((F53.2150416
+F6.501052
+tp536
+V17-04-15
+p537
+V09:41:03
+p538
+tp539
+VAlbert Heijn, 27, Zuiderweg, Groningen, Nederland, 9745 AA, Nederland
+p540
+s((F51.655648
+F5.6742883
+tp541
+V20-04-15
+p542
+V13:17:59
+p543
+tp544
+V10, Zeelandsedijk, Volkel, Uden, Noord-Brabant, Nederland, 5408SM, Nederland
+p545
+s((F53.3270211
+F6.5187436
+tp546
+V20-04-15
+p547
+V12:09:09
+p548
+tp549
+V48, Borgweg, Winsum, Groningen, Nederland, 9951BG, Nederland
+p550
+s((F51.6906074
+F5.2945925
+tp551
+V19-04-15
+p552
+V06:57:02
+p553
+tp554
+V147, Stationsplein, Het Zand, Binnenstad, 's-Hertogenbosch, Noord-Brabant, Nederland, 5211BP, Nederland
+p555
+s((F52.7597027
+F6.9178795
+tp556
+V20-04-15
+p557
+V17:17:37
+p558
+tp559
+V25, Columbusstraat, Bargermeer, Emmen, Drenthe, Nederland, 7825VP, Nederland
+p560
+s((F52.9667896
+F5.6114497
+tp561
+V17-04-15
+p562
+V17:32:11
+p563
+tp564
+V65, It Eilân, Heeg, Súdwest Fryslân, Friesland, Nederland, 8621CT, Nederland
+p565
+s((F52.38092
+F4.6407611
+tp566
+V17-04-15
+p567
+V13:46:12
+p568
+tp569
+V94-ZW, Bakenessergracht, Haarlem, MRA, Noord-Holland, Nederland, 2011JZ, Nederland
+p570
+s((F53.1090599
+F6.1138796
+tp571
+V17-04-15
+p572
+V20:32:10
+p573
+tp574
+V1, Spitael, Drachten, Smallingerland, Friesland, Nederland, 9202HA, Nederland
+p575
+s((F53.0020184
+F6.7647217
+tp576
+V16-04-15
+p577
+V07:08:03
+p578
+tp579
+V37, Stationsstraat, Gieten, Aa en Hunze, Drenthe, Nederland, 9461GR, Nederland
+p580
+s((F51.6182193
+F5.353378
+tp581
+V16-04-15
+p582
+V22:20:35
+p583
+tp584
+V8, Laan ten Habraken, Gemonde, Sint-Michielsgestel, Noord-Brabant, Nederland, 5291AJ, Nederland
+p585
+s((F51.9363717
+F11.2166312
+tp586
+V20-04-15
+p587
+V10:17:51
+p588
+tp589
+VGröningen, Westliche Börde, Landkreis Börde, Sachsen-Anhalt, Deutschland
+p590
+s((F53.2152312
+F6.5666116
+tp591
+V21-04-15
+p592
+V09:18:01
+p593
+tp594
+V12, Nieuwstad, Binnenstad, Groningen, Nederland, 9711JP, Nederland
+p595
+s((F51.5581179
+F5.9422042
+tp596
+V18-04-15
+p597
+V13:29:03
+p598
+tp599
+V19, Merseloseweg, Overloon, Boxmeer, Noord-Brabant, Nederland, 5825HB, Nederland
+p600
+s((F52.3333703
+F4.77170684879264
+tp601
+V19-04-15
+p602
+V13:03:26
+p603
+tp604
+VDorint Airport-Hotel Amsterdam, 299, Sloterweg, Badhoevedorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1171VB, Nederland
+p605
+s((F51.7152842
+F5.3786354
+tp606
+V17-04-15
+p607
+V21:30:03
+p608
+tp609
+V94, Eikakkerhoeven, Sparrenburg, Rosmalen, 's-Hertogenbosch, Noord-Brabant, Nederland, 5242KM, Nederland
+p610
+s((F52.2679859
+F4.7383361
+tp611
+V18-04-15
+p612
+V14:20:59
+p613
+tp614
+V455, Aalsmeerderdijk, Aalsmeerderbrug, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1436BM, Nederland
+p615
+s((F52.6661796
+F6.7329038
+tp616
+V16-04-15
+p617
+V12:39:37
+p618
+tp619
+V12, De Holwert, Coevorden, Drenthe, Nederland, 7741KC, Nederland
+p620
+s((F51.6925245
+F5.2908376
+tp621
+V17-04-15
+p622
+V22:35:50
+p623
+tp624
+V40, 's-Gravesandestraat, Boschveld, 's-Hertogenbosch, Noord-Brabant, Nederland, 5223BS, Nederland
+p625
+s((F51.4314024
+F4.3205184
+tp626
+V19-04-15
+p627
+V22:11:39
+p628
+tp629
+VDe Groenling, Hoogerheide, Woensdrecht, Noord-Brabant, Nederland, 4631MN, Nederland
+p630
+s((F52.3086504
+F4.7640771
+tp631
+V17-04-15
+p632
+V00:08:03
+p633
+tp634
+V1, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p635
+s((F52.3802493
+F4.5551662
+tp636
+V18-04-15
+p637
+V15:27:11
+p638
+tp639
+V199, Keesomstraat, Zandvoort, MRA, Noord-Holland, Nederland, 2041XH, Nederland
+p640
+s((F51.6208227
+F5.5131952
+tp641
+V17-04-15
+p642
+V08:12:28
+p643
+tp644
+V409, De Amert, De Dubbelen, Veghel, Noord-Brabant, Nederland, 5462GH, Nederland
+p645
+s((F51.51764935
+F3.94814421050963
+tp646
+V19-04-15
+p647
+V10:36:55
+p648
+tp649
+VKattendijke, Goes, Zeeland, Nederland
+p650
+s((F52.4628356
+F4.6204085
+tp651
+V19-04-15
+p652
+V10:58:11
+p653
+tp654
+V45, IJmuiderstraatweg, IJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1971LC, Nederland
+p655
+s((F53.2361457
+F6.5341695
+tp656
+V20-04-15
+p657
+V09:41:05
+p658
+tp659
+V3, Nadorstplein, Groningen, Nederland, 9747AB, Nederland
+p660
+s((F51.6838515
+F5.2920687
+tp661
+V17-04-15
+p662
+V00:43:54
+p663
+tp664
+V4, Willemsplein, Het Zand, Binnenstad, 's-Hertogenbosch, Noord-Brabant, Nederland, 5211AK, Nederland
+p665
+s((F52.3062818
+F4.7628295
+tp666
+V17-04-15
+p667
+V05:16:35
+p668
+tp669
+V6, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p670
+s((F52.3235195
+F4.7588718
+tp671
+V20-04-15
+p672
+V01:29:39
+p673
+tp674
+V400, Sloterweg, Badhoevedorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1171VK, Nederland
+p675
+s((F14.1289926
+F121.11924225377
+tp676
+V20-04-15
+p677
+V22:20:56
+p678
+tp679
+VPMFTC, Tanauan, Batangas, Calabarzon, 4232, Philippines
+p680
+s((F52.4758819
+F4.6406996
+tp681
+V17-04-15
+p682
+V12:09:18
+p683
+tp684
+V221, Gildenlaan, Velsen-Noord, Velsen, MRA, Noord-Holland, Nederland, 1951KT, Nederland
+p685
+s((F51.64424
+F5.93481
+tp686
+V19-04-15
+p687
+V15:42:31
+p688
+tp689
+VExportstraat, Boxmeer, Noord-Brabant, Nederland, 5831AJ, Nederland
+p690
+s((F52.8469677
+F5.6853261
+tp691
+V16-04-15
+p692
+V08:04:09
+p693
+tp694
+V39-32, Plattedijk, Lemmer, De Friese Meren, Friesland, Nederland, 8531PC, Nederland
+p695
+s((F51.7500708
+F5.565275
+tp696
+V19-04-15
+p697
+V07:49:46
+p698
+tp699
+V52, Zevenbergseweg, Berghem, Oss, Noord-Brabant, Nederland, 5351PJ, Nederland
+p700
+s((F47.2581396
+F8.589094
+tp701
+V19-04-15
+p702
+V11:19:57
+p703
+tp704
+VSSM, Neugasse, Horgen, Bezirk Horgen, Zürich, 8810, Schweiz, Suisse, Svizzera, Svizra
+p705
+s((F53.2045765
+F5.8030636
+tp706
+V16-04-15
+p707
+V12:19:11
+p708
+tp709
+V2, Amelandshof, Leeuwarden, Friesland, Nederland, 8911LZ, Nederland
+p710
+s((F52.3512673
+F4.6303908
+tp711
+V20-04-15
+p712
+V12:09:32
+p713
+tp714
+V20-TR, Von Brucken Focklaan, Heemstede, MRA, Noord-Holland, Nederland, 2102XC, Nederland
+p715
+s((F51.7790291
+F5.5559729
+tp716
+V19-04-15
+p717
+V20:12:07
+p718
+tp719
+V2, Grevelingenmeer, De Geer, Oss, Noord-Brabant, Nederland, 5347JP, Nederland
+p720
+s((F53.2626652
+F6.3051579
+tp721
+V18-04-15
+p722
+V16:07:48
+p723
+tp724
+V1, Burmanniastraat, Grijpskerk, Zuidhorn, Groningen, Nederland, 9843EJ, Nederland
+p725
+s((F52.945345
+F6.3347405
+tp726
+V19-04-15
+p727
+V13:02:20
+p728
+tp729
+VTuberculosemuseum Beatrixoord, 1, Beatrixoord, Appelscha, Ooststellingwerf, Friesland, Nederland, 8426GM, Nederland
+p730
+s((F52.7611351
+F6.8878249
+tp731
+V17-04-15
+p732
+V21:24:31
+p733
+tp734
+V199, Zweelerbrink, Emmen, Drenthe, Nederland, 7812JG, Nederland
+p735
+s((F52.96883
+F5.7927512
+tp736
+V16-04-15
+p737
+V10:43:42
+p738
+tp739
+V10, Midstraat, Joure, De Friese Meren, Friesland, Nederland, 8501AP, Nederland
+p740
+s((F52.4773795
+F4.6732971
+tp741
+V17-04-15
+p742
+V15:26:35
+p743
+tp744
+V10, Buitenlanden, Beverwijk, MRA, Noord-Holland, Nederland, 1948PD, Nederland
+p745
+s((F52.3129272
+F4.5872912
+tp746
+V17-04-15
+p747
+V13:55:24
+p748
+tp749
+V1, Nieuweweg, Hillegom, Zuid-Holland, Nederland, 2182BP, Nederland
+p750
+s((F53.30427345
+F5.65686791630528
+tp751
+V20-04-15
+p752
+V10:10:22
+p753
+tp754
+VSt.-Annaparochie, het Bildt, Friesland, Nederland
+p755
+s((F52.9918314
+F6.5175429
+tp756
+V19-04-15
+p757
+V17:43:26
+p758
+tp759
+V22, Zoom, Assen, Drenthe, Nederland, 9405PS, Nederland
+p760
+s((F52.38370575
+F4.64355969655963
+tp761
+V20-04-15
+p762
+V14:48:11
+p763
+tp764
+VHaarlem, MRA, Noord-Holland, Nederland
+p765
+s((F52.9467201
+F5.9250351
+tp766
+V17-04-15
+p767
+V13:23:37
+p768
+tp769
+V9, Meerkoetweg, Heerenveen, Friesland, Nederland, 8446JT, Nederland
+p770
+s((F51.4431417
+F3.5719081
+tp771
+V17-04-15
+p772
+V19:07:07
+p773
+tp774
+V96, Molenstraat, Vlissingen, Zeeland, Nederland, 4381HX, Nederland
+p775
+s((F52.4019069
+F4.6160186855923
+tp776
+V18-04-15
+p777
+V15:43:48
+p778
+tp779
+Vwoonzorgcentrum De Rijp, 134, Bloemendaalseweg, veen en duin, Bloemendaal, MRA, Noord-Holland, Nederland, 2061SC, Nederland
+p780
+s((F52.3694287
+F4.632026
+tp781
+V16-04-15
+p782
+V11:59:59
+p783
+tp784
+VSpijkermanslaan, Haarlem, MRA, Noord-Holland, Nederland, 2012CG, Nederland
+p785
+s((F52.4574973
+F4.6603323
+tp786
+V16-04-15
+p787
+V16:01:41
+p788
+tp789
+V10, Amsterdamseweg, Velsen-Zuid, Velsen, MRA, Noord-Holland, Nederland, 1981LE, Nederland
+p790
+s((F51.6109297
+F5.2942723
+tp791
+V16-04-15
+p792
+V20:20:22
+p793
+tp794
+V2, Antoniusweg, Esch, Haaren, Noord-Brabant, Nederland, 5296NH, Nederland
+p795
+s((F51.4570118
+F4.8589843
+tp796
+V20-04-15
+p797
+V13:19:56
+p798
+tp799
+V49, Dorpsstraat, Ulicoten, Baarle-Nassau, Noord-Brabant, Nederland, 5113TD, Nederland
+p800
+s((F53.2513784
+F6.6036523
+tp801
+V16-04-15
+p802
+V23:48:20
+p803
+tp804
+V83, Fultsemaheerd, Beijum, Groningen, Nederland, 9736CS, Nederland
+p805
+s((F53.1281449
+F6.8700317
+tp806
+V18-04-15
+p807
+V23:07:20
+p808
+tp809
+V26, De Akkers, Muntendam, Menterwolde, Groningen, Nederland, 9649JC, Nederland
+p810
+s((F53.1930547
+F5.8066164
+tp811
+V16-04-15
+p812
+V22:03:39
+p813
+tp814
+V101, Huizumerlaan, Leeuwarden, Friesland, Nederland, 8934BE, Nederland
+p815
+s((F53.1976746
+F5.5435751
+tp816
+V20-04-15
+p817
+V00:07:44
+p818
+tp819
+V8, Het Want, Franeker, Franekeradeel, Friesland, Nederland, 8802PV, Nederland
+p820
+s((F52.9831877
+F6.5699434
+tp821
+V16-04-15
+p822
+V17:24:31
+p823
+tp824
+V9-137, Dennenweg, Assen, Drenthe, Nederland, 9404LA, Nederland
+p825
+s((F51.6614752
+F5.6112383
+tp826
+V21-04-15
+p827
+V11:47:18
+p828
+tp829
+V1, De Cour, Uden, Noord-Brabant, Nederland, 5401XS, Nederland
+p830
+s((F52.3885405
+F4.6071102
+tp831
+V16-04-15
+p832
+V08:20:07
+p833
+tp834
+VHotel Loetje Overveen, 260, Bloemendaalseweg, Overveen, Bloemendaal, MRA, Noord-Holland, Nederland, 2051GN, Nederland
+p835
+s((F53.2196567
+F6.015292
+tp836
+V18-04-15
+p837
+V02:56:39
+p838
+tp839
+V75, Zomerweg, Noardburgum, Tytsjerksteradiel, Friesland, Nederland, 9257ME, Nederland
+p840
+s((F52.7649515
+F6.878944
+tp841
+V17-04-15
+p842
+V13:08:58
+p843
+tp844
+V62, Holtingerbrink, Emmen, Drenthe, Nederland, 7812EX, Nederland
+p845
+s((F52.2986919
+F4.6424634
+tp846
+V20-04-15
+p847
+V18:24:27
+p848
+tp849
+V1235, IJweg, Floriande, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2133MJ, Nederland
+p850
+s((F51.7610174
+F5.5196535
+tp851
+V21-04-15
+p852
+V03:15:11
+p853
+tp854
+V1, Euterpelaan, Oss, Noord-Brabant, Nederland, 5344CA, Nederland
+p855
+s((F52.8719569
+F6.0017823
+tp856
+V20-04-15
+p857
+V10:20:17
+p858
+tp859
+V1, Meester Troelstrastraat, Wolvega, Weststellingwerf, Friesland, Nederland, 8471MG, Nederland
+p860
+s((F52.9854607
+F6.9521573
+tp861
+V16-04-15
+p862
+V19:07:44
+p863
+tp864
+V28, Lyceumlaan, Stadskanaal, Groningen, Nederland, 9503BJ, Nederland
+p865
+s((F52.9858806
+F6.5473472
+tp866
+V16-04-15
+p867
+V08:14:20
+p868
+tp869
+VBosrand, Assen, Drenthe, Nederland, 9401SL, Nederland
+p870
+s((F52.9383482
+F5.947527
+tp871
+V20-04-15
+p872
+V15:09:14
+p873
+tp874
+V4-103, Heremaweg, Heerenveen, Friesland, Nederland, 8444AN, Nederland
+p875
+s((F53.0967817
+F6.0980732
+tp876
+V18-04-15
+p877
+V20:12:18
+p878
+tp879
+V140-122, Burgemeester Wuiteweg, Drachten, Smallingerland, Friesland, Nederland, 9203KP, Nederland
+p880
+s((F52.32371205
+F4.65359729113058
+tp881
+V17-04-15
+p882
+V07:57:26
+p883
+tp884
+VSpaarne Ziekenhuis, 1, Spaarnepoort, Floriande, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2134 TM, Nederland
+p885
+s((F52.6791851
+F6.7577227
+tp886
+V17-04-15
+p887
+V12:58:25
+p888
+tp889
+V5, Achterloo, Dalen, Coevorden, Drenthe, Nederland, 7751MK, Nederland
+p890
+s((F52.3114291
+F4.7571246
+tp891
+V16-04-15
+p892
+V10:02:17
+p893
+tp894
+V11, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p895
+s((F51.6838515
+F5.2920687
+tp896
+V17-04-15
+p897
+V01:56:26
+p898
+tp899
+V4, Willemsplein, Het Zand, Binnenstad, 's-Hertogenbosch, Noord-Brabant, Nederland, 5211AK, Nederland
+p900
+s((F51.3361429
+F3.8379007
+tp901
+V16-04-15
+p902
+V12:13:12
+p903
+tp904
+V4, Stuvesande, Terneuzen Noord (Noordpolder), Terneuzen, Zeeland, Nederland, 4532MH, Nederland
+p905
+s((F52.3379647
+F4.7801901
+tp906
+V19-04-15
+p907
+V20:45:18
+p908
+tp909
+V111, Burgemeester Amersfoordtlaan, Badhoevedorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1171DN, Nederland
+p910
+s((F52.8833378
+F6.0000643
+tp911
+V18-04-15
+p912
+V16:16:14
+p913
+tp914
+VFrico Wolvega, 4, Frisaxstraat, Wolvega, Weststellingwerf, Friesland, Nederland, 8471ZW, Nederland
+p915
+s((F53.0064505
+F6.5494426
+tp916
+V18-04-15
+p917
+V22:40:54
+p918
+tp919
+V17, Lottingstraat, Assen, Drenthe, Nederland, 9406LX, Nederland
+p920
+s((F52.8719569
+F6.0017823
+tp921
+V20-04-15
+p922
+V10:21:42
+p923
+tp924
+V1, Meester Troelstrastraat, Wolvega, Weststellingwerf, Friesland, Nederland, 8471MG, Nederland
+p925
+s((F52.7142045
+F6.5203897
+tp926
+V17-04-15
+p927
+V13:55:54
+p928
+tp929
+V4023, Buitenvaart, Hoogeveen, Drenthe, Nederland, 7905TC, Nederland
+p930
+s((F51.6906074
+F5.2945925
+tp931
+V18-04-15
+p932
+V00:17:13
+p933
+tp934
+V147, Stationsplein, Het Zand, Binnenstad, 's-Hertogenbosch, Noord-Brabant, Nederland, 5211BP, Nederland
+p935
+s((F52.3800215
+F4.7529123
+tp936
+V19-04-15
+p937
+V10:51:42
+p938
+tp939
+V476, Zwanenburgerdijk, Zwanenburg, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1161NW, Nederland
+p940
+s((F52.3086504
+F4.7640771
+tp941
+V16-04-15
+p942
+V06:30:11
+p943
+tp944
+V1, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AP, Nederland
+p945
+s((F53.3201344
+F6.858819
+tp946
+V21-04-15
+p947
+V02:19:39
+p948
+tp949
+V44, Wijkstraat, Appingedam, Groningen, Nederland, 9901AJ, Nederland
+p950
+s((F52.4272458
+F4.6587852
+tp951
+V19-04-15
+p952
+V21:17:29
+p953
+tp954
+V77, Klipper, Velserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991MV, Nederland
+p955
+s((F51.5701505
+F5.3768883
+tp956
+V16-04-15
+p957
+V23:18:13
+p958
+tp959
+V1, Den Dries, Liempde, Boxtel, Noord-Brabant, Nederland, 5298BL, Nederland
+p960
+s((F52.3591752
+F4.6546546
+tp961
+V17-04-15
+p962
+V10:24:31
+p963
+tp964
+V13, Floridaplein, Winkelcentrum Schalkwijk, Haarlem, MRA, Noord-Holland, Nederland, 2037AK, Nederland
+p965
+s((F52.5582949
+F5.9150865
+tp966
+V20-04-15
+p967
+V05:41:09
+p968
+tp969
+VBroederstraat, Kampen, Regio Zwolle, Overijssel, Nederland, 8261GN, Nederland
+p970
+s((F51.7539522
+F5.8608853
+tp971
+V18-04-15
+p972
+V10:57:56
+p973
+tp974
+V3, Korte Oijen, Katwijk, Katwijk NB, Cuijk, Noord-Brabant, Nederland, 5433NE, Nederland
+p975
+s((F53.0860452
+F6.5773128
+tp976
+V16-04-15
+p977
+V10:13:59
+p978
+tp979
+V20, Veenweg, Vries, Tynaarlo, Drenthe, Nederland, 9481TJ, Nederland
+p980
+s.

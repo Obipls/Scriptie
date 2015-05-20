@@ -1,29 +1,35 @@
 from geopy.geocoders import Nominatim
-from jsoncleaner import *
+import pickle
 
 def locationsnatcher(causes):
+
 	locDict={}
+	geoList=[]
 	geolocator = Nominatim()
+	x=0
 	for cause in causes:
-		#print(cause)
-		fullAddress=str(cause[-3])," ",str(cause[-4])," ",str(cause[-2])
-		streetCity=str(cause[-3])," ",str(cause[-2])
-		try:
-			location = geolocator.geocode(''.join(fullAddress))
-			locDict[location.address]=(location.latitude,location.longitude)
-		except:	
-			try:
-				location = geolocator.geocode(''.join(streetCity))
-				locDict[location.address]=(location.latitude,location.longitude)
-			except Exception,e:
-				print("{} has no location, sorry!".format(streetCity))
+		fullAddress= ' '.join(causes.get(cause)[-1])
+		geoList.append([cause,fullAddress])
+
+	print(len(geoList))
+
+	for loc in geoList[50000:52000]:
+		location = geolocator.geocode(loc[-1], timeout=15)
+		print(x)
+		x+=1
+		if location != None:
+			locgeo=(location.latitude,location.longitude)
+			locDict[(locgeo,loc[0])]=[location.address,causes.get(loc[0])[0]]	
 	return locDict
 
 def main():
-	causes=cleanup()
-	coordinates=locationsnatcher(causes)
-	print(coordinates)
-
+	addressfile='causesaddr.pickle'
+	addresses=pickle.load(open(addressfile, 'rb'))
+	coordinates=locationsnatcher(addresses)
+	print (len(coordinates))
+	with open('geolocs13.pickle','wb') as f:
+		pickle.dump(coordinates,f)
+ 
 
 
 if __name__ == '__main__':
