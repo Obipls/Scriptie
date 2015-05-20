@@ -13,7 +13,7 @@ def locationsnatcher(causes):
 
 	print(len(geoList))
 
-	for loc in geoList[50000:52000]:
+	for loc in geoList[50000:]:
 		location = geolocator.geocode(loc[-1], timeout=15)
 		print(x)
 		x+=1
