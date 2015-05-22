@@ -28,7 +28,7 @@ def main():
 	coordinates=locationsnatcher(addresses)
 	print (len(coordinates))
 	with open('geolocs13.pickle','wb') as f:
-		pickle.dump(coordinates,f, protocol=0)
+		pickle.dump(coordinates,f)
  
 
 

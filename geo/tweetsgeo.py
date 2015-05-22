@@ -7,13 +7,14 @@ def gettweetlocs():
 			tweet = line.strip().split('\t')
 			tweetgeo = tweet[1].split()
 			tweetgeo = (tweetgeo[0],tweetgeo[1])
-			tweetDict[tweetgeo,tweet[-2]]=tweet[-1]
+			tweetDict[tweetgeo,tweet[-2]]=(tweet[0],tweet[1])
 
 	return tweetDict
 
+
 def main():
 	coordinates=gettweetlocs()
-	with open('tweetlocs.pickle','wb') as f:
+	with open('tweettd.pickle','wb') as f:
 		pickle.dump(coordinates,f)
 
 if __name__ == '__main__':

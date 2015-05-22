@@ -10,7 +10,7 @@ for i in range(14):
 		aDict[key]=alerts.get(key)
 
 with open('geolocsall.pickle','wb') as f:
-		pickle.dump(aDict,f)
+		pickle.dump(aDict,f,protocol=0)
 	
 
 #pickle.load(open('alerts.pickle','rb'))
