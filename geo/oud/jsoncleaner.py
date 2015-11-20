@@ -30,6 +30,8 @@ def cleanup():
 	alerts = [d for d in alerts if re.search('[A-P]:?\s?[0-9]', ''.join(d.get('cause')))]
 	print("No priority entries removed, linecount = {}".format(len(alerts)))
 
+	print(len(alerts))
+
 	# Gather all causes in 1 list for geosnatcher
 	causes= [d.split() for d in [''.join(d) for d in [d.get('date')+[" "]+d.get('time')+[" "]+d.get('cause') for d in alerts]]]
 	print("List created")
@@ -49,7 +51,7 @@ def cleanup():
 						else:
 							adress=[str(street),str(city)]
 							causeDict[(cause[0],cause[1])]=[cause[2:],adress]
-	with open('causesaddr.pickle','wb') as f:
-		pickle.dump(causeDict,f)
+	#with open('causesaddr.pickle','wb') as f:
+	#	pickle.dump(causeDict,f)
 
 cleanup()

@@ -1,0 +1,17 @@
+0.929824561404
+  |      0      1 |
+--+---------------+
+0 | <52.6%>  1.8% |
+1 |   5.3% <40.4%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive     0.958333  0.884615     0.92
+Negative     0.909091  0.967742     0.9375
+pos precision: 0.958333333333
+pos recall: 0.884615384615
+pos F-measure: 0.92
+neg precision: 0.909090909091
+neg recall: 0.967741935484
+neg F-measure: 0.9375

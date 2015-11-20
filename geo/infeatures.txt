@@ -1,0 +1,217 @@
+0.912280701754
+  |      0      1 |
+--+---------------+
+0 | <50.9%>  3.5% |
+1 |   5.3% <40.4%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive      0.92     0.884615   0.901961
+Negative      0.90625  0.935484   0.920635
+pos precision: 0.92
+pos recall: 0.884615384615
+pos F-measure: 0.901960784314
+neg precision: 0.90625
+neg recall: 0.935483870968
+neg F-measure: 0.920634920635
+
+
+Most Informative Features
+                     Een = True                1 : 0      =     19.2 : 1.0
+                    gaat = True                1 : 0      =     14.3 : 1.0
+                       1 = True                1 : 0      =     11.7 : 1.0
+                       ! = True                0 : 1      =      7.7 : 1.0
+                       @ = True                0 : 1      =      7.2 : 1.0
+                    naar = True                1 : 0      =      6.7 : 1.0
+                       / = True                1 : 0      =      6.4 : 1.0
+                    weer = True                0 : 1      =      6.2 : 1.0
+                   https = True                0 : 1      =      5.8 : 1.0
+                    niet = True                0 : 1      =      5.6 : 1.0
+informative features are: None
+0.912280701754
+  |      0      1 |
+--+---------------+
+0 | <50.9%>  1.8% |
+1 |   7.0% <40.4%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive     0.958333  0.851852   0.901961
+Negative     0.878788  0.966667   0.920635
+pos precision: 0.958333333333
+pos recall: 0.851851851852
+pos F-measure: 0.901960784314
+neg precision: 0.878787878788
+neg recall: 0.966666666667
+neg F-measure: 0.920634920635
+
+
+Most Informative Features
+                    gaat = True                1 : 0      =     24.2 : 1.0
+                    naar = True                1 : 0      =     12.7 : 1.0
+                       ! = True                0 : 1      =     12.3 : 1.0
+                       @ = True                0 : 1      =      7.9 : 1.0
+                    niet = True                0 : 1      =      7.2 : 1.0
+                    maar = True                0 : 1      =      5.5 : 1.0
+                   https = True                0 : 1      =      5.3 : 1.0
+                       1 = True                1 : 0      =      5.1 : 1.0
+                    weer = True                0 : 1      =      4.9 : 1.0
+                       : = False               0 : 1      =      4.6 : 1.0
+informative features are: None
+0.947368421053
+  |      0      1 |
+--+---------------+
+0 | <57.9%>     . |
+1 |   5.3% <36.8%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive     1            0.875   0.933333
+Negative     0.916667     1       0.956522
+pos precision: 1.0
+pos recall: 0.875
+pos F-measure: 0.933333333333
+neg precision: 0.916666666667
+neg recall: 1.0
+neg F-measure: 0.95652173913
+
+
+Most Informative Features
+                     Een = True                1 : 0      =     18.6 : 1.0
+                    gaat = True                1 : 0      =     13.8 : 1.0
+                       1 = True                1 : 0      =     11.3 : 1.0
+                    maar = True                0 : 1      =      8.2 : 1.0
+                       ! = True                0 : 1      =      8.0 : 1.0
+                       @ = True                0 : 1      =      7.8 : 1.0
+                    niet = True                0 : 1      =      7.6 : 1.0
+               Brandweer = True                1 : 0      =      6.9 : 1.0
+                       / = True                1 : 0      =      6.9 : 1.0
+                       2 = True                1 : 0      =      6.9 : 1.0
+informative features are: None
+0.929824561404
+  |      0      1 |
+--+---------------+
+0 | <56.1%>  1.8% |
+1 |   5.3% <36.8%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive     0.954545  0.875      0.913043
+Negative     0.914286  0.969697   0.941176
+pos precision: 0.954545454545
+pos recall: 0.875
+pos F-measure: 0.913043478261
+neg precision: 0.914285714286
+neg recall: 0.969696969697
+neg F-measure: 0.941176470588
+
+
+Most Informative Features
+                       ! = True                0 : 1      =      7.7 : 1.0
+                       @ = True                0 : 1      =      7.5 : 1.0
+                    maar = True                0 : 1      =      7.0 : 1.0
+                    niet = True                0 : 1      =      7.0 : 1.0
+                       / = True                1 : 0      =      6.9 : 1.0
+                       1 = True                1 : 0      =      6.8 : 1.0
+                    naar = True                1 : 0      =      6.6 : 1.0
+                   https = True                0 : 1      =      6.2 : 1.0
+                     wat = True                0 : 1      =      5.8 : 1.0
+                      en = True                0 : 1      =      5.6 : 1.0
+informative features are: None
+0.877192982456
+  |      0      1 |
+--+---------------+
+0 | <50.9%>  7.0% |
+1 |   5.3% <36.8%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive      0.84     0.875      0.857143
+Negative      0.90625  0.878788   0.892308
+pos precision: 0.84
+pos recall: 0.875
+pos F-measure: 0.857142857143
+neg precision: 0.90625
+neg recall: 0.878787878788
+neg F-measure: 0.892307692308
+
+
+Most Informative Features
+                     Een = True                1 : 0      =     18.6 : 1.0
+                    gaat = True                1 : 0      =     13.8 : 1.0
+                       ! = True                0 : 1      =      8.2 : 1.0
+                    maar = True                0 : 1      =      7.6 : 1.0
+                       @ = True                0 : 1      =      7.6 : 1.0
+                    niet = True                0 : 1      =      7.0 : 1.0
+                       / = True                1 : 0      =      6.9 : 1.0
+                    weer = True                0 : 1      =      5.8 : 1.0
+                    naar = True                1 : 0      =      5.8 : 1.0
+                      De = True                1 : 0      =      5.5 : 1.0
+informative features are: None
+0.947368421053
+  |      0      1 |
+--+---------------+
+0 | <57.9%>     . |
+1 |   5.3% <36.8%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive     1            0.875   0.933333
+Negative     0.916667     1       0.956522
+pos precision: 1.0
+pos recall: 0.875
+pos F-measure: 0.933333333333
+neg precision: 0.916666666667
+neg recall: 1.0
+neg F-measure: 0.95652173913
+
+
+Most Informative Features
+                    gaat = True                1 : 0      =     22.9 : 1.0
+                       1 = True                1 : 0      =     11.3 : 1.0
+                     Een = True                1 : 0      =     11.1 : 1.0
+                    niet = True                0 : 1      =     10.1 : 1.0
+                       ! = True                0 : 1      =      9.3 : 1.0
+                    naar = True                1 : 0      =      7.8 : 1.0
+                       @ = True                0 : 1      =      7.6 : 1.0
+                    maar = True                0 : 1      =      7.0 : 1.0
+                     het = True                0 : 1      =      5.6 : 1.0
+                      De = True                1 : 0      =      5.5 : 1.0
+informative features are: None
+0.912280701754
+  |      0      1 |
+--+---------------+
+0 | <54.4%>  3.5% |
+1 |   5.3% <36.8%>|
+--+---------------+
+(row = reference; col = test)
+
+            Precision    Recall    F-score
+Positive     0.913043  0.875      0.893617
+Negative     0.911765  0.939394   0.925373
+pos precision: 0.913043478261
+pos recall: 0.875
+pos F-measure: 0.893617021277
+neg precision: 0.911764705882
+neg recall: 0.939393939394
+neg F-measure: 0.925373134328
+
+
+Most Informative Features
+                    gaat = True                1 : 0      =     13.8 : 1.0
+                       1 = True                1 : 0      =     11.3 : 1.0
+                    weer = True                0 : 1      =      8.2 : 1.0
+                       @ = True                0 : 1      =      7.8 : 1.0
+                       ! = True                0 : 1      =      7.5 : 1.0
+                    niet = True                0 : 1      =      7.0 : 1.0
+               Brandweer = True                1 : 0      =      6.9 : 1.0
+                       / = True                1 : 0      =      6.9 : 1.0
+                    maar = True                0 : 1      =      6.4 : 1.0
+                       ( = True                1 : 0      =      6.0 : 1.0
+informative features are: None
